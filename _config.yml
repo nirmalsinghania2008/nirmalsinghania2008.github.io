@@ -6,7 +6,7 @@
 name: Nirmal Singhania
 
 # Short bio or description (displayed in the header)
-description: Programmer From Somewhere On Earth
+description: Data Science Enthusiast,Creating Stories From Data
 
 
 #
@@ -16,12 +16,12 @@ description: Programmer From Somewhere On Earth
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: agarwal.akshay.akshay8@gmail.com
+  email: nirmal.singhania@st.niituniversity.in
   facebook:
   flickr:
-  github: AkshayAgarwal007
+  github: nirmalsinghania2008
   instagram:
-  linkedin: akshay-agarwal-782018a4
+  linkedin: nirmal-singhania-256747a2
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
@@ -32,7 +32,7 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus:
+disqus: true
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
